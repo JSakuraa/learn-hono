@@ -1,6 +1,6 @@
 # Learn Hono 🦊
 
-This project was created as a learning exercise to build a fully documented, type-safe API using [Hono](https://hono.dev/), a lightweight and blazing-fast web framework for the edge. It features clean architecture, modern developer experience, and strong typing throughout.
+This project was created as a learning exercise to build a fully documented, type-safe API using [Hono](https://hono.dev/), a lightweight and blazing-fast web framework for the edge. It features clean architecture, modern developer experience, and strong typing throughout. This was completed by following a [YouTube tutorial from Syntax](https://www.youtube.com/watch?v=sNh9PoM9sUE)
 
 > 🔧 **Package Manager Used:** [pnpm](https://pnpm.io)
 
@@ -77,11 +77,3 @@ pnpm dev
 pnpm lint
 pnpm test
 ```
-
-## 🧾 License
-
-MIT
-
----
-
-Want help drafting a blog post to go with this? I can outline that too.

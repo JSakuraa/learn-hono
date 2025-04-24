@@ -1,7 +1,3 @@
-Awesome! Here's a strong `README.md` draft for your **Learn Hono** project, complete with sections you can expand on if you decide to write a companion blog post.
-
----
-
 # Learn Hono 🦊
 
 This project was created as a learning exercise to build a fully documented, type-safe API using [Hono](https://hono.dev/), a lightweight and blazing-fast web framework for the edge. It features clean architecture, modern developer experience, and strong typing throughout.
